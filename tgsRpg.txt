@@ -3,34 +3,34 @@ Eyes:     		Hair:     		Age:       	Height:		Weight:
 Elemental Affinity: 		Presence:		Race:     				
 Phys.:    																																			
 A. Strength:		D. Dexterity:			F. Wisdom:	
-	1. Lift:			1. Melee:				1. ??? Animus:
+	1. Lift:		1. Melee:			1. ??? Animus:
 	2. Bone & Sinew:	2. Dodge/Parry: 		2. Solar:
-	3. Climb:			3. Acrobatics: 			3. The Windowman:
-	4. Jump:			4. Archery:				4. Harmonic:
-	5. Power:			5. Lance:				5. Dissonant:	
-	6. Resolve:			6. Pole-Arm:			6. 
-	7. Prowess:			7. Blade:				7. 
-	8. Swimming:		8. Chain:				8. 	
-	9. Other:			9. Mace:				9. 	
-						10. Hammer:				10. 	
+	3. Climb:		3. Acrobatics: 			3. The Windowman:
+	4. Jump:		4. Archery:			4. Harmonic:
+	5. Power:		5. Lance:			5. Dissonant:	
+	6. Resolve:		6. Pole-Arm:			6. 
+	7. Prowess:		7. Blade:			7. 
+	8. Swimming:		8. Chain:			8. 	
+	9. Other:		9. Mace:			9. 	
+				10. Hammer:			10. 	
 B. Intelligence:		11. Hazard Weapon:		11. 	
-	1. Street Wise:		12. Thrown:				12. 	
+	1. Street Wise:		12. Thrown:			12. 	
 	2. Languages:		13. E. Blade:			13. 	
-	3. Races:			14. Claw:				14. 	
-	4. Meteorological:	15. Axe:				15. Other:	
-	5. Relics	:		16. Music:				
+	3. Races:		14. Claw:			14. 	
+	4. Meteorological:	15. Axe:			15. Other:	
+	5. Relics:		16. Music:				
 	6. Military:		17. Pistol ( M / P ):			
 	7. Dimensions:		18. SMG ( M / P ):		 	
 	8. Survival:		19. M. Gun ( M / P ):			
-	9. Social	:		20. Rifle ( M / P ):		
-	10. Value:			21. A.V. ( M / P ):			
-	11. Chem.:			22. Other:	 						
+	9. Social:		20. Rifle ( M / P ):		
+	10. Value:		21. A.V. ( M / P ):			
+	11. Chem.:		22. Other:	 						
 	12. Bio.:	
-	13. Other:			E. Perception:		Wpn.:	Name/Type	Dmg./Specs.	
-						1. Search:						
+	13. Other:	E. Perception:		Wpn.:	Name/Type	Dmg./Specs.	
+				1. Search:						
 C. Mechanical:			2. Hide:							
 	1. Piloting:		3. Sneak:						
-	2. Gunnery:			4. Intent:  						
+	2. Gunnery:		4. Intent:  						
 	3. R/F Electronic:	5. Control:						
 	4. R/F Hydraulic: 	6. Coercion:						
 	5. R/F Animus:		7. Instinct:						
@@ -51,15 +51,19 @@ C. Mechanical:			2. Hide:
 Spcls:	Name/Type	Specs.			Spells:	Name/Type	Dmg/Specs.	
 											
 											
-											
-											
-											
+str: durability, explosive power, stamina?, lift(sustained power vs explosive)
+dex: precise-judgement(part of aim, piloting, horsemanship), precise-movement(part of melee, aim?, dodge, parry), sneak //maybe leave precise-judgement stuff to perception and make dex the precise-movement stuff
+per: manipulate (str/per/cha hybrid?), alert (tend to notice things in surroundings (sounds, traps, etc)), hide, judge-intent (detect lies or hidden motives of those with low cha (per>wisdom?),
+cha: lie (str/cha?), compel (str/per/cha hybrid?), haggle (cha/per subtrait?), leadership (max npc group size?), 
+int: On Thither Strid (occult), On nature, On wisdom, glory, mephisis, survival (int>per?), language? (used to understand otherworldly things and ancient artifacts?),
+
+subtraits: Lockpick(per/dex), macemanship (str>dex), axemanship (dex>str), Windowleer (per>mephisis || per)
 											
 											
 											
 												
 												
-												
+//come up with skill floors for things like axemanchip and macemanship												
 												
 																								
 												
