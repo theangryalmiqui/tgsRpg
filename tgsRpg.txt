@@ -1,0 +1,87 @@
+﻿Player:	  			Character:          				Desig.:   	
+Eyes:     		Hair:     		Age:       	Height:		Weight:		
+Elemental Affinity: 		Presence:		Race:     				
+Phys.:    																																			
+A. Strength:		D. Dexterity:			F. Wisdom:	
+	1. Lift:			1. Melee:				1. ??? Animus:
+	2. Bone & Sinew:	2. Dodge/Parry: 		2. Solar:
+	3. Climb:			3. Acrobatics: 			3. The Windowman:
+	4. Jump:			4. Archery:				4. Harmonic:
+	5. Power:			5. Lance:				5. Dissonant:	
+	6. Resolve:			6. Pole-Arm:			6. 
+	7. Prowess:			7. Blade:				7. 
+	8. Swimming:		8. Chain:				8. 	
+	9. Other:			9. Mace:				9. 	
+						10. Hammer:				10. 	
+B. Intelligence:		11. Hazard Weapon:		11. 	
+	1. Street Wise:		12. Thrown:				12. 	
+	2. Languages:		13. E. Blade:			13. 	
+	3. Races:			14. Claw:				14. 	
+	4. Meteorological:	15. Axe:				15. Other:	
+	5. Relics	:		16. Music:				
+	6. Military:		17. Pistol ( M / P ):			
+	7. Dimensions:		18. SMG ( M / P ):		 	
+	8. Survival:		19. M. Gun ( M / P ):			
+	9. Social	:		20. Rifle ( M / P ):		
+	10. Value:			21. A.V. ( M / P ):			
+	11. Chem.:			22. Other:	 						
+	12. Bio.:	
+	13. Other:			E. Perception:		Wpn.:	Name/Type	Dmg./Specs.	
+						1. Search:						
+C. Mechanical:			2. Hide:							
+	1. Piloting:		3. Sneak:						
+	2. Gunnery:			4. Intent:  						
+	3. R/F Electronic:	5. Control:						
+	4. R/F Hydraulic: 	6. Coercion:						
+	5. R/F Animus:		7. Instinct:						
+	6. R/F Chem.:		8. Omen:						
+	7. R/F Bio.:		9. Security:						
+	8. R/F Mech:		10. Demo.:						
+	9. R/F Structural:	11. Other:		
+	10. R/F Program:							
+	11. R/F Weapons:										Armr.:	Name/Type	Specs.		
+	12. R/F Armor:																			
+	13. Other:											
+											
+											
+											
+											
+											
+											
+Spcls:	Name/Type	Specs.			Spells:	Name/Type	Dmg/Specs.	
+											
+											
+											
+											
+											
+											
+											
+											
+												
+												
+												
+												
+																								
+												
+																																																		
+							
+Equipment:																																																																																			
+																																																																								
+
+
+
+
+
+
+
+
+
+
+Traits:							Quote:																	
+												
+												
+												
+	
+
+
+
